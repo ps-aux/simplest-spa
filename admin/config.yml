@@ -1,4 +1,9 @@
-media_folder: media
+backend:
+  name: github
+  repo: ps-aux/simplest-jpa
+
+media_folder: assets
+public_folder: assets
 
 collections:
   - name: blog
