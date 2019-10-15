@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: ps-aux/simplest-jpa
+  repo: ps-aux/simplest-spa
 
 media_folder: assets
 public_folder: assets
