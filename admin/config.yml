@@ -9,7 +9,7 @@ collections:
   - name: team-member
     identifier_field: id
     label: Team member
-    file: data/team.json
+    folder: data/team
     create: true
     format: json
     fields:

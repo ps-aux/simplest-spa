@@ -1,5 +1,5 @@
-fetch('/data/team/alice.json')
+fetch('/data/team/eam.json')
   .then(r => r.text())
-  .then(a => {
-    console.log('alice is', a)
+  .then(team => {
+    console.log('team', team)
   })
