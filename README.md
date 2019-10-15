@@ -1,0 +1,1 @@
+Example of simplest SPA to be used with Netlify and Netlify CMS
